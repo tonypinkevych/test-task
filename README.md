@@ -1,7 +1,13 @@
-# Test task
+# The task
 
-Simple test task for frontend developers.
+Replicate the following algorithm with animations using any language and framework you want.
 
-![](./cover.gif)
+For better quality please check [the video](./video.mp4).
 
-<video src="./video.mp4"></video>
+![Cover](./cover.gif)
+
+---
+
+## Credits
+
+Initial animation taken from this [tweet](https://x.com/nicolasdnl/status/1749715070928433161?s=20) by [Nicolas Daniel](https://twitter.com/nicolasdnl).

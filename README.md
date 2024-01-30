@@ -1,6 +1,6 @@
 # The task
 
-Replicate the following algorithm with animations using any language and framework you want.
+Reproduce the following animation.
 
 For better quality please check [the video](./video.mp4).
 
